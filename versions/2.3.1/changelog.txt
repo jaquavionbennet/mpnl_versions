@@ -5,3 +5,5 @@ Fixed Temple of Duality quests not working as intended
 Added a few more rarities for Dungeon Now Loading items
 
 Added a recipe to turn spawner fragments into stained scrap fragments
+
+Oops, forgot to update the in-game config to reflect version, it will still say 2.3.0
