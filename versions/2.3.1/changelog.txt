@@ -1,0 +1,7 @@
+Quick patch
+
+Fixed Temple of Duality quests not working as intended
+
+Added a few more rarities for Dungeon Now Loading items
+
+Added a recipe to turn spawner fragments into stained scrap fragments
