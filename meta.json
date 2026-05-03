@@ -2,6 +2,14 @@
   "schemaVersion": 1,
   "hotfixesFormat": null,
   "versions": [
- 
-  ]
+    ...
+    {
+        "id": "2.3.0",
+        "promotions": {
+            "downloads": {
+                "curseforge": "https://www.curseforge.com/minecraft/modpacks/modpack-now-loading"
+            }
+        }
+    }
+]
 }
